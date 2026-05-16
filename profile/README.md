@@ -3,7 +3,7 @@
 
 
 
-Welcome to the official GitHub organization for **ObscuritySecurity**. We are a organization non-profit dedicated to building open-source software that empowers people to reclaim their digital freedom.
+Welcome to the official GitHub organization for ObscuritySecurity. We operate on non-profit principles — we do not generate profit, we do not sell data, we have no investors. dedicated to building open-source software that empowers people to reclaim their digital freedom.
 
 ## Our Mission
 
