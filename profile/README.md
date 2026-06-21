@@ -24,9 +24,9 @@ All of our projects are guided by a strict, non-negotiable set of principles def
 -   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: All-in-One Privacy, client-side encryption file manager, gallery, music player, and document viewer where your privacy comes first
 
 
-**[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**: An open standard for any organization that builds software, establishing a new foundation of respect and protection for the people behind the screen.
+-  **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**: An open standard for any organization that builds software, establishing a new foundation of respect and protection for the people behind the screen.
 
--   
+ 
 
 ## How to Contribute
 
