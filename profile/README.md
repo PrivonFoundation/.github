@@ -21,7 +21,9 @@ All of our projects are guided by a strict, non-negotiable set of principles def
 
 ## Our Projects
 
--   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: A four-in-one, end-to-end encrypted file manager, gallery, music player, and document viewer where your privacy comes first
+-   **[CrytoTool](https://github.com/ObscuritySecurity/CrytoTool)**: All-in-One Privacy, client-side encryption file manager, gallery, music player, and document viewer where your privacy comes first
+
+-   
 
 ## How to Contribute
 
