@@ -21,7 +21,7 @@ All of our projects are guided by a strict, non-negotiable set of principles def
 
 ## Our Projects
 
--   **[PrivonnVault](https://github.com/ObscuritySecurity/PrivonnVault)**: All-in-One Privacy, client-side encryption Vault file manager, gallery, music player, and document viewer where your privacy comes first
+-   **[PrivonnVault](https://github.com/Privonn/PrivonnVault)**: All-in-One Privacy, client-side encryption Vault file manager, gallery, music player, and document viewer where your privacy comes first
 
 
 -  **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**: An open standard for any organization that builds software, establishing a new foundation of respect and protection for the people behind the screen.
