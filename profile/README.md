@@ -9,7 +9,7 @@ Welcome to the official GitHub organization for Privon Foundation. We operate on
 
 ## Our Mission
 
-Our mission is to provide powerful, intuitive, and secure tools that put control back where it belongs: in the hands of the individual. We believe that privacy is a fundamental right, not a feature, and we build our software on this unwavering foundation.
+Our mission is to build software that puts people first — with security, privacy, and open source at its core, and threat modeling that makes protection accessible to everyone, not just experts.
 
 ## Our Core Principles
 
