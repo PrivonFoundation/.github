@@ -1,3 +1,8 @@
+
+<img width="1536" height="1024" alt="1671" src="https://github.com/user-attachments/assets/ff87fffe-6283-47e7-9a25-a9224cb78da0" />
+
+
+
 # Privon Foundation
 
 **Non-profit. Open source. Privacy-first.**
