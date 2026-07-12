@@ -16,52 +16,20 @@ To build software that puts people first — with security, privacy, and open so
 
 All Privon Foundation projects are governed by **Protocol-3305** — a non-negotiable set of architectural and ethical principles that ensure our software is structurally incapable of exploiting its people.
 
-```
- Art. 0 │ Ethical Monetization
-         │ Monetization of personal data is strictly forbidden.
-         │ No ads, no tracking, no data selling.
-
-────────┼───────────────────────────────────────────────
-         │ PILLAR I — Architectural Foundation
-
- Art. 1 │ Privacy by Design
-         │ Privacy integrated into the fundamental architecture.
-         │ Every feature starts with a privacy impact assessment.
-
- Art. 2 │ Security by Default
-         │ Highest security settings enabled by default.
-         │ Argon2id Tier 3, AES-256-GCM, E2EE out of the box.
-
- Art. 3 │ Zero Trust
-         │ Never trust, always verify.
-         │ Every operation authenticated, every key derived on demand.
-
-────────┼───────────────────────────────────────────────
-         │ PILLAR II — Data Sovereignty
-
- Art. 4 │ Zero Knowledge
-         │ End-to-end encryption is mandatory.
-         │ Providers cannot read content; keys never leave the device.
-
- Art. 5 │ Zero Personal Data
-         │ No PII stored beyond absolute functionality.
-         │ No email, no phone, no name required.
-
- Art. 6 │ Zero Logs
-         │ No activity logs, IP addresses, or metadata.
-         │ Nothing leaves the device. No telemetry.
-
-────────┼───────────────────────────────────────────────
-         │ PILLAR III — Integrity & Guarantees
-
- Art. 7 │ Open Source
-         │ All code open for public audit.
-         │ AGPL-3.0 licensed, fully transparent.
-
- Art. 8 │ Least Privilege
-         │ Only essential permissions requested.
-         │ No camera, no contacts, no location.
-```
+| Art. | Principle | Description |
+|------|-----------|-------------|
+| 0 | **Ethical Monetization** | Monetization of personal data is strictly forbidden. No ads, no tracking, no data selling. |
+| | **Pillar I — Architectural Foundation** | |
+| 1 | **Privacy by Design** | Privacy integrated into the fundamental architecture. Every feature starts with a privacy impact assessment. |
+| 2 | **Security by Default** | Highest security settings enabled by default. Argon2id Tier 3, AES-256-GCM, E2EE out of the box. |
+| 3 | **Zero Trust** | Never trust, always verify. Every operation authenticated, every key derived on demand. |
+| | **Pillar II — Data Sovereignty** | |
+| 4 | **Zero Knowledge** | End-to-end encryption is mandatory. Providers cannot read content; keys never leave the device. |
+| 5 | **Zero Personal Data** | No PII stored beyond absolute functionality. No email, no phone, no name required. |
+| 6 | **Zero Logs** | No activity logs, IP addresses, or metadata. Nothing leaves the device. No telemetry. |
+| | **Pillar III — Integrity & Guarantees** | |
+| 7 | **Open Source** | All code open for public audit. AGPL-3.0 licensed, fully transparent. |
+| 8 | **Least Privilege** | Only essential permissions requested. No camera, no contacts, no location. |
 
 > Full specification at [github.com/PrivonFoundation/protocol-3305](https://github.com/PrivonFoundation/protocol-3305)
 
