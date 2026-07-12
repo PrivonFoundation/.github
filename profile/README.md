@@ -23,18 +23,18 @@ All Privon Foundation projects are governed by **Protocol-3305** — a non-negot
 
 | Art. | Principle | Description |
 |------|-----------|-------------|
-| 0 | **Ethical Monetization** | Monetization of personal data is strictly forbidden. No ads, no tracking, no data selling. |
+| 0 | **Ethical Monetization** | Monetization of personal data is strictly forbidden. No ads, no tracking, no data collection. |
 | | **Pillar I — Architectural Foundation** | |
 | 1 | **Privacy by Design** | Privacy integrated into the fundamental architecture. Every feature starts with a privacy impact assessment. |
-| 2 | **Security by Default** | Highest security settings enabled by default. Argon2id Tier 3, AES-256-GCM, E2EE out of the box. |
-| 3 | **Zero Trust** | Never trust, always verify. Every operation authenticated, every key derived on demand. |
+| 2 | **Security by Default** | Highest security settings enabled by default. |
+| 3 | **Zero Trust** | Never trust, always verify.|
 | | **Pillar II — Data Sovereignty** | |
 | 4 | **Zero Knowledge** | End-to-end encryption is mandatory. Providers cannot read content; keys never leave the device. |
-| 5 | **Zero Personal Data** | No PII stored beyond absolute functionality. No email, no phone, no name required. |
-| 6 | **Zero Logs** | No activity logs, IP addresses, or metadata. Nothing leaves the device. No telemetry. |
+| 5 | **Zero Personal Data** | No PII stored beyond absolute functionality. |
+| 6 | **Zero Logs** | No activity logs, IP addresses, or metadata. |
 | | **Pillar III — Integrity & Guarantees** | |
-| 7 | **Open Source** | All code open for public audit. AGPL-3.0 licensed, fully transparent. |
-| 8 | **Least Privilege** | Only essential permissions requested. No camera, no contacts, no location. |
+| 7 | **Open Source** | All code open for public audit,fully transparent. |
+| 8 | **Least Privilege** | Only essential permissions requested.|
 
 > Full specification at [github.com/PrivonFoundation/protocol-3305](https://github.com/PrivonFoundation/protocol-3305)
 
