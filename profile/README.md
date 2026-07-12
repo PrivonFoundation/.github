@@ -1,41 +1,88 @@
-<img width="1536" height="1024" alt="1671" src="https://github.com/user-attachments/assets/1c376611-3576-4fd8-8b51-495d21a82551" />
+# Privon Foundation
 
+**Non-profit. Open source. Privacy-first.**
 
-
-
-
-
-Welcome to the official GitHub organization for Privon Foundation. We operate on non-profit principles — we do not generate profit, we do not sell data, we have no investors. dedicated to building open-source software that empowers people to reclaim their digital freedom.
-
-## Our Mission
-
-Our mission is to build software that puts people first — with security, privacy, and open source at its core, and threat modeling that makes protection accessible to everyone, not just experts.
-
-## Our Core Principles
-
-All of our projects are guided by a strict, non-negotiable set of principles defined in **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**
-
--    **Zero Knowledge & Zero Data Collection**: We are architecturally blind to your data. We cannot access, sell, or be forced to surrender information we do not possess.
--    **Security by Default**: Our applications are delivered with the highest security settings enabled from the start.
--    **Open Source & Verifiable**: We operate on a "verify, don't trust" model. Our code is open for public audit, allowing anyone to confirm our security and privacy claims.
--    **No Centralized Control**: Our tools are designed to function offline and without reliance on centralized servers that can be compromised or controlled.
-
-## Our Projects
-
--   **[Privon Vault](https://github.com/Privonn/PrivonVault)**: All-in-One Privacy, client-side encryption Vault file manager, gallery, music player, and document viewer where your privacy comes first
-
-
--  **[protocol-3305](https://github.com/ObscuritySecurity/protocol-3305)**: An open standard for any organization that builds software, establishing a new foundation of respect and protection for the people behind the screen.
-
- 
-
-## How to Contribute
-
-We are an open-source project driven by the community. Whether it's through code contributions, security audits, or community moderation, your involvement is vital.
-
--   **Start a Discussion**: Have a technical question or a feature request? Join our [GitHub Discussions](https://github.com/orgs/ObscuritySecurity/discussions).
--   **Contribute Code**: Check out the `CONTRIBUTING.md` file in our project repositories to get started.
+We do not generate profit, sell data, or take investor funding. We build software that respects the people behind the screen — with client-side encryption, zero tracking, and full transparency.
 
 ---
 
-**Join us in building a more private and secure digital future.**
+## Our Mission
+
+To build software that puts people first — with security, privacy, and open source at its core, and threat modeling that makes protection accessible to everyone, not just experts.
+
+---
+
+## Protocol-3305
+
+All Privon Foundation projects are governed by **Protocol-3305** — a non-negotiable set of architectural and ethical principles that ensure our software is structurally incapable of exploiting its people.
+
+```
+ Art. 0 │ Ethical Monetization
+         │ Monetization of personal data is strictly forbidden.
+         │ No ads, no tracking, no data selling.
+
+────────┼───────────────────────────────────────────────
+         │ PILLAR I — Architectural Foundation
+
+ Art. 1 │ Privacy by Design
+         │ Privacy integrated into the fundamental architecture.
+         │ Every feature starts with a privacy impact assessment.
+
+ Art. 2 │ Security by Default
+         │ Highest security settings enabled by default.
+         │ Argon2id Tier 3, AES-256-GCM, E2EE out of the box.
+
+ Art. 3 │ Zero Trust
+         │ Never trust, always verify.
+         │ Every operation authenticated, every key derived on demand.
+
+────────┼───────────────────────────────────────────────
+         │ PILLAR II — Data Sovereignty
+
+ Art. 4 │ Zero Knowledge
+         │ End-to-end encryption is mandatory.
+         │ Providers cannot read content; keys never leave the device.
+
+ Art. 5 │ Zero Personal Data
+         │ No PII stored beyond absolute functionality.
+         │ No email, no phone, no name required.
+
+ Art. 6 │ Zero Logs
+         │ No activity logs, IP addresses, or metadata.
+         │ Nothing leaves the device. No telemetry.
+
+────────┼───────────────────────────────────────────────
+         │ PILLAR III — Integrity & Guarantees
+
+ Art. 7 │ Open Source
+         │ All code open for public audit.
+         │ AGPL-3.0 licensed, fully transparent.
+
+ Art. 8 │ Least Privilege
+         │ Only essential permissions requested.
+         │ No camera, no contacts, no location.
+```
+
+> Full specification at [github.com/PrivonFoundation/protocol-3305](https://github.com/PrivonFoundation/protocol-3305)
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [Privon Vault](https://github.com/PrivonFoundation/PrivonVault) | All-in-one, client-side encrypted file manager, gallery, music player, and document viewer. |
+| [Protocol-3305](https://github.com/PrivonFoundation/protocol-3305) | An open standard for ethical software — a new foundation of respect and protection for the people behind the screen. |
+
+---
+
+## Contributing
+
+We are a community-driven open-source project. Whether through code, security audits, documentation, or moderation — your involvement matters.
+
+- **Discussions:** Have a question or feature idea? Join [GitHub Discussions](https://github.com/orgs/PrivonFoundation/discussions).
+- **Code:** See `CONTRIBUTING.md` in each repository to get started.
+
+---
+
+*Made with ❤️ in Romania — for everyone, everywhere.*
