@@ -7,7 +7,7 @@
 
 **Non-profit. Open source. Privacy-first.**
 
-We do not generate profit, sell data, or take investor funding. We build software that respects the people behind the screen — with client-side encryption, zero tracking, and full transparency.
+We do not generate profit, sell data, or take investor funding. We build software that respects the people behind the screen — with client-side encryption, zero data collection, and full transparency.
 
 ---
 
