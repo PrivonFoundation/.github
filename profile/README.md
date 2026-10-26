@@ -5,15 +5,10 @@
 
 # Privon Foundation
 
-**Non-profit. Open source. Privacy-first.**
-
-We do not generate profit, sell data, or take investor funding. We build software that respects the people behind the screen — with client-side encryption, zero data collection, and full transparency.
-
----
 
 ## Our Mission
 
-To build software that puts people first — with security, privacy, and open source at its core, and threat modeling that makes protection accessible to everyone, not just experts.
+To build software that puts people first — with security, privacy, design,and open source at its core, makes protection accessible to everyone, not just experts.
 
 ---
 
